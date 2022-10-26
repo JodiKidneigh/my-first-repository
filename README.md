@@ -7,6 +7,7 @@ Important steps for git workflow:
 4. Stage changes for commit
 5. Commit changes to version history
 6. Review previous changes with git log
+7. One more change for luck.
 
 ## Table of Contents (to be updated)
 
